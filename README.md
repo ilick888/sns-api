@@ -2,7 +2,7 @@
 
 ### build
 ```
-docker build -t sns
+docker build -t sns .
 ```
 
 ### run
